@@ -1,6 +1,6 @@
 name: marketplace-echo
 label: Marketplace Echo
-version: 0.1.0
+version: 0.2.0
 description: Fixture plugin used by the Vamana marketplace tests.
 author: Vamana
 kind: standalone
